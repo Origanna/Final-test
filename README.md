@@ -25,4 +25,4 @@
 4. Выводим новый массив.
 
 #### Блок-схема
-![Блок-схема](/Final-test/Diagram/Diagram.drawio.png)
+![Блок-схема](/Diagram/Diagram.drawio.png)
